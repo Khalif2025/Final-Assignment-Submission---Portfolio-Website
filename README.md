@@ -1,16 +1,20 @@
-# Final-Assignment-Submission---Portfolio-Website
-# My Portfolio Website
+# Mohamed Khalif Portfolio
 
-This is my personal portfolio website built using HTML and CSS. It showcases the projects I've completed during the course.
+Welcome to my portfolio! Here, you can explore some of my projects and skills as a web developer.
 
-## Technologies Used:
-- HTML
-- CSS
+## Projects
 
-## Projects:
-- **Project 1:** [Link to project](#)
-- **Project 2:** [Link to project](#)
-- **Project 3:** [Link to project](#)
+1. **Personal Blog**: A simple blog built with HTML, CSS, and JavaScript.
+2. **Portfolio Website**: This website you're viewing right now! It showcases my skills and projects.
+3. **Task Manager**: A task manager app built with React.js to manage tasks efficiently.
 
-### Live Site:
-- [My Portfolio Website](https://your-Khalif2025.github.io/portfolio/)
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Git & GitHub
+
+
